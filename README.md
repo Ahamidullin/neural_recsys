@@ -11,6 +11,7 @@ This is a course on Deep Learning-based Recommender Systems taught at HSE Univer
     5. [Ranking Models I](./week_05)
     6. [Ranking Models II](./week_06)
     7. [Sequential Recommenders](./week_07)
+    8. [Graph Neural Networks](./week_08)
 </pre></big>
 
 ## Contributors 
@@ -18,3 +19,5 @@ This is a course on Deep Learning-based Recommender Systems taught at HSE Univer
 * [Kirill Khrylchenko](https://github.com/KhrylchenkoKirill)
 * [Artem Matveev](https://github.com/matfu-pixel)
 * [Vladimir Baikalov](https://github.com/NonameUntitled)
+* [Sergei Makeev](https://github.com/neuralsrg)
+* [Alexandr Andreev](https://github.com/Alex-Andrv)
