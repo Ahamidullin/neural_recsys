@@ -1,7 +1,7 @@
 # Week 9
 ## Ads ranking at Yandex
 
-Lecture by Margarita Mishustina.
+Lecture by [Margarita Mishustina](https://github.com/rita1302).
 
 Youtube:
 * [Lecture](https://youtu.be/O8BrA5hT7bY)
