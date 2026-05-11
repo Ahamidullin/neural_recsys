@@ -1,0 +1,42 @@
+# === Data files (too large for git) ===
+*.parquet
+*.zip
+*.zip*.part
+*.csv
+*.tsv
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# === CatBoost / ML artifacts ===
+catboost_info/
+mlruns/
+wandb/
+*.cbm
+*.model
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === IDE ===
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# === Jupyter checkpoints ===
+.ipynb_checkpoints/
+
+# === Personal files (not course material) ===
+*.pdf
+*.resolved
